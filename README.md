@@ -10,5 +10,6 @@
 |4|회귀와 예측|[note](https://colab.research.google.com/github/sejin-sim/Practical_statistics/blob/main/4_%ED%9A%8C%EA%B7%80%EC%99%80_%EC%98%88%EC%B8%A1.ipynb)|
 |5|분류|[note](https://colab.research.google.com/github/sejin-sim/Practical_statistics/blob/main/5_%EB%B6%84%EB%A5%98.ipynb)|
 |6|통계적 머신러닝|[note](https://colab.research.google.com/github/sejin-sim/Practical_statistics/blob/main/6_%ED%86%B5%EA%B3%84%EC%A0%81_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.ipynb)|
+|7|비지도학습|[note](https://colab.research.google.com/github/sejin-sim/Practical_statistics/blob/main/7_%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.ipynb)|
 
 - 참고 : https://github.com/gedeck/practical-statistics-for-data-scientists
